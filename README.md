@@ -36,6 +36,11 @@ Since we didn't fix a random seed, you might not be able to reproduce the same A
 
 Place the motion sequences in ```/motion``` and run ```drawskt_SBU.m```
 
+## Synthetic Dataset
+
+Download the [synthetic dataset](https://drive.google.com/drive/folders/1wWW7uIviILIzMFldrojjPk1ahu2o6C7G?usp=sharing). The dataloader has been updated to also load in the synthetic dataset
+
+
 ## License
 
 Please see ```License```
