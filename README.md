@@ -1,4 +1,4 @@
-# Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding
+# Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding ( SCA 2022, to be published in Computer Graphics Forum )
 
 Aman Goel, Qianhui Men, [Edmond S. L. Ho](http://www.edho.net/)
 
