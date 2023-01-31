@@ -49,12 +49,14 @@ Please see ```License```
 
 If you find our work useful in your research, please consider citing
 ```
-@misc{
-  title = {Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding},
-  doi = {10.48550/ARXIV.2208.00774},
-  author = {Goel, Aman and Men, Qianhui and Ho, Edmond S. L.},
-  publisher = {arXiv},
-  year = {2022},
+@article {10.1111:cgf.14647,
+journal = {Computer Graphics Forum},
+title = {{Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding}},
+author = {Goel, Aman and Men, Qianhui and Ho, Edmond S. L.},
+year = {2022},
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+ISSN = {1467-8659},
+DOI = {10.1111/cgf.14647}
 }
 ```
 
