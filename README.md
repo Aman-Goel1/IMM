@@ -1,10 +1,10 @@
-# Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding ( SCA 2022, to be published in Computer Graphics Forum )
+# Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding ( Computer Graphics Forum (Proceedings of SCA 2022) )
 
 Aman Goel, Qianhui Men, [Edmond S. L. Ho](http://www.edho.net/)
 
 Synthesizing multi-character interactions is a challenging task due to the complex and varied interactions between the characters. In particular, precise spatiotemporal alignment between characters is required in generating close interactions such as dancing and fighting. Existing work in generating multi-character interactions focuses on generating a single type of reactive motion for a given sequence which result in a lack of variety of the resultant motions. In this paper, we propose a novel way to create realistic skeleton human reactive motions which are not presented in the given dataset by mixing and matching reactive motions. We propose a Conditional Hierarchical Generative Adversarial Network with Multi-Hot Class Embedding to generate the Mix and Match reactive motions from a given input active motion of a sequence. Experiments are conducted on both noisy (depth-based) and high-quality (MoCap-based) interaction datasets. The quantitative and qualitative comparison results show that our approach outperforms the state-of-the-art methods on the given datasets. We also provide an augmented dataset with realistic reactive motions with flexible patterns to stimulate future research in this area.
 
-## [Paper](https://diglib.eg.org/handle/10.1111/cgf14647) | [Demo](https://www.youtube.com/watch?v=RhzNEFM7wbY)
+## [Paper](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14647) | [Demo](https://www.youtube.com/watch?v=RhzNEFM7wbY)
 <br/>
                                                                                                                                                                                                                                                                                                                           
 ![framework_new](https://user-images.githubusercontent.com/109843145/182305175-1ea634a8-911e-402c-b4c0-18395503a0ab.jpg)
